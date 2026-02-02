@@ -14,3 +14,6 @@ Key Features:
     Multiple anomaly detection approaches
     Validation against known events (2016 Weddell Polynya, 2019 heatwave)
     Professional visualizations
+
+Figures:
+<img width="1466" height="985" alt="Untitled" src="https://github.com/user-attachments/assets/eb1415ca-96d0-493b-9117-305a92d1b02f" /> 
